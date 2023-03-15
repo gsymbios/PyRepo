@@ -6,3 +6,5 @@ for _ in range(10):
 
 while True:
     print("Hello world for ever!")
+
+print("The above is an infinite loop and this print will never happen")
