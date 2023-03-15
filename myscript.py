@@ -3,3 +3,6 @@
 print("This is my first script for this file and has been modified to show how to handle a change in my code")
 for _ in range(10):
     print("Hello world!")
+
+while True:
+    print("Hello world for ever!")
