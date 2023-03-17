@@ -8,8 +8,4 @@ while True:
     print("Hello world for ever!")
 
 print("The above is an infinite loop and this print will never happen")
-<<<<<<< HEAD
 print("This is another line added to the master branch")
-=======
-print("Here I am again on a random branch")
->>>>>>> new_branch
