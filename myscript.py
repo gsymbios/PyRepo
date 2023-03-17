@@ -8,3 +8,4 @@ while True:
     print("Hello world for ever!")
 
 print("The above is an infinite loop and this print will never happen")
+print("This is another line added to the master branch")
